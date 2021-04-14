@@ -15,7 +15,6 @@ https://pastebin.com/9E571km2
 
 # LOOT
 
-- TOTAL 5 TRANSMUTES werden bis ca lvl 10 benötigt, 6 wenn man zwischendrin mit Infernal legion spielt
 - Alle Blacksmith whetstones und Armor scraps für wisdoms verkaufen. Während Kampagne brauchst du die nicht.
 
 ## Ganz am Anfang: 
@@ -23,7 +22,7 @@ https://pastebin.com/9E571km2
 - alles blau/gelb beim händler unidentifiziert verkaufen
 	- Ausnahme: items die gelinked sind mit den farben die du brauchst, die werden natürlich identifiziert
 
-## Sobald du 5 bis 6 Transmutes in total zuzsammen hast:
+## Sobald du 6 Transmutes in total zusammen hast:
 - Keine blauen items mehr aufheben (außer sie haben links)
 - alle rares identifizieren und verkaufen für alteration shards
 	
@@ -37,7 +36,7 @@ Hailrake: Q: Lesser Poison; V: Swift Assembly
 Prison: Q: Minion Damage, V: Melee splash (in jedem fall nehmen)
 		
 SRS mit splash (BBR) oder infernal legion (BBB) + minion damage wenn links vorhanden (IL und MD gibts beim händler; jeweils 1 transmute jeweils).
-Splash bevorzugt weil kurze Zeit später auch für skellis benötigt.
+Splash bevorzugt weil kurze Zeit später auch für Skellis benötigt.
 		
 Brutus: Q: skeletons, V: Clarity, Vitality, Flame dash (3 Transmutes total)
 Caverns (lvl 12 gems) Q: flesh offering
