@@ -57,14 +57,14 @@ Caverns (lvl 12 gems) Q: flesh offering
 
 - Part 1: bis lvl 24 (3L gems)
 
-	- 1. Link: BGG (Stormblast mine, lesser poison, Swift Assembly; in dieser Prio)
-	- 2. Link: BBR (Zombies + minion damage + splash)
-		Wenn pech bei links, einfach weiter stormblast mine benutzen.
+	- erster Link: BGG (Stormblast mine, lesser poison, Swift Assembly; in dieser Prio)
+	- zweiter Link: BBR (Zombies + minion damage + splash)
+		- Wenn pech bei links, einfach weiter stormblast mine benutzen.
 	
-	- 3. Link: BBR (Skellies + Minion damage + splash)
-	- 3. Link alternative: BBB (SRS + Minion damage + Infernal legion)
-		Sobald 2. BBR droppt (und brutus tot), skellies anstatt SRS, Stormblast mine wird nicht mehr gebraucht
-		weitere sockel irgendwo auf dem gear 1xB und 1xR (clarity + vitality)
+	- dritter Link: BBR (Skellies + Minion damage + splash)
+	- dritter Link alternative: BBB (SRS + Minion damage + Infernal legion)
+		- Sobald 2. BBR droppt (und brutus tot), skellies anstatt SRS, Stormblast mine wird nicht mehr gebraucht
+		- weitere sockel irgendwo auf dem gear 1xB und 1xR (clarity + vitality)
 
 - Part 2: Ab level 18 (nach sharp & cruel quest):
 
