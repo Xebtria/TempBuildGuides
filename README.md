@@ -1,17 +1,21 @@
 # Skelly/Spectre Level Guide
 
+# Ghazzys Guide:
+https://www.poe-vault.com/guides/lich-queen-skeleton-summoner-pob-passive-skill-tree-gem-links
 
-TOTAL 5 TRANSMUTES werden bis ca lvl 10 benötigt, 6 wenn man zwischendrin mit Infernal legion spielt
+POB direkt:
+https://pastebin.com/9E571km2
 
 # LEVEL TREE
 
-https://i.imgur.com/HWNDzxE.png
+![Early level tree](https://i.imgur.com/HWNDzxE.png)
 
 - Wenn Punkt 6 erreicht ist, kann zwischen Life und dem pathing zu 7 je nach Bedarf gewechselt werden. Wenn 7 erreicht ist, einfach nach Ghazzys PoB alle Life Noten abgrasen die im tree sind.
 - 30 str/dex noten am weg ebenfalls nach bedarf einfach dazu nehmen.
 
 # LOOT
 
+- TOTAL 5 TRANSMUTES werden bis ca lvl 10 benötigt, 6 wenn man zwischendrin mit Infernal legion spielt
 - Alle Blacksmith whetstones und Armor scraps für wisdoms verkaufen. Während Kampagne brauchst du die nicht.
 
 ## Ganz am Anfang: 
