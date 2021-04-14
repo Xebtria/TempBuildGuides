@@ -74,13 +74,10 @@ Caverns (lvl 12 gems) Q: flesh offering
 - Part 3: ab level 28
 
 	- 4L sobald vorhanden
-	- 
 		- BBBG (spectre - L/GMP - Feeding frenzy - minion damage)
 			- Falls nur 3L: Minion damage rauslassen)
 			- Wenn 4L für skellies da, Feeding Frenzy tauschen für Faster casting (spell echo @38)
-			
 		- BBBR (zombie - meat shield - minion speed - melee splash)
-		
 		- BBBR (skellies - feeding frenzy - melee phys - minion damage) replace MP mit multistrike @38)
 			- Alternativ geht auch BBRR für skellies (Minion damage + MeleePhys + Multistrike), dann muss Feeding frenzy halt an einen anderen minion
 			
