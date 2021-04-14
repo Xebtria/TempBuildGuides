@@ -3,37 +3,32 @@
 
 TOTAL 5 TRANSMUTES werden bis ca lvl 10 benötigt, 6 wenn man zwischendrin mit Infernal legion spielt
 
-=================================
-LEVEL TREE
-=================================
+# LEVEL TREE
+
 
 https://i.imgur.com/HWNDzxE.png
 
 Wenn Punkt 6 erreicht ist, kann zwischen Life und dem pathing zu 7 je nach Bedarf gewechselt werden. Wenn 7 erreicht ist, einfach nach Ghazzys PoB alle Life Noten abgrasen die im tree sind.
 30 str/dex noten am weg ebenfalls nach bedarf einfach dazu nehmen.
 
-=================================
-LOOT
-=================================
+
+# LOOT
+
 
 Alle Blacksmith whetstones und Armor scraps für wisdoms verkaufen. Während Kampagne brauchst du die nicht.
 
 Ganz am Anfang: 
 
-	alles blau/gelb aufheben
-	alles blau/gelb beim händler unidentifiziert verkaufen
+- alles blau/gelb aufheben
+- alles blau/gelb beim händler unidentifiziert verkaufen
+	- Ausnahme: items die gelinked sind mit den farben die du brauchst, die werden natürlich identifiziert
+
+- Sobald du 5 bis 6 Transmutes in total zuzsammen hast:
+	- Keine blauen items mehr aufheben (außer sie haben links)
+	- alle rares identifizieren und verkaufen für alteration shards
 	
-		Ausnahme: items die gelinked sind mit den farben die du brauchst, die werden natürlich identifiziert
+# QUEST REWARDS / VENDOR GEMS
 
-Sobald du 5 bis 6 Transmutes in total zuzsammen hast:
-
-	Keine blauen items mehr aufheben (außer sie haben links)
-	alle rares identifizieren und verkaufen für alteration shards
-	
-
-=================================
-QUEST REWARDS / VENDOR GEMS
-=================================
 
 Act 1:
 
