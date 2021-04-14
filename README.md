@@ -54,28 +54,39 @@ Caverns (lvl 12 gems) Q: flesh offering
 - Dialla Q (38er Gems): Spell Echo oder GMP; V: Spell Echo oder GMP + Multistrike
 
 # LINKS
+
 - Part 1: bis lvl 24 (3L gems)
+
 	- 1. Link: BGG (Stormblast mine, lesser poison, Swift Assembly; in dieser Prio)
 	- 2. Link: BBR (Zombies + minion damage + splash)
 		- Wenn pech bei links, einfach weiter stormblast mine benutzen.
+	
 	- 3. Link: BBR (Skellies + Minion damage + splash)
 	- 3. Link alternative: BBB (SRS + Minion damage + Infernal legion)
 		- Sobald 2. BBR droppt (und brutus tot), skellies anstatt SRS, Stormblast mine wird nicht mehr gebraucht
 		- weitere sockel irgendwo auf dem gear 1xB und 1xR (clarity + vitality)
-	- Part 2: Ab level 18 (nach sharp & cruel quest):
-		- Skellis: Minion Damage + Melee phys. 
-		- Zombies: Predator + Melee splash
-	- Part 3: ab level 28
-		- 4L sobald vorhanden:
+
+- Part 2: Ab level 18 (nach sharp & cruel quest):
+
+	- Skellis: Minion Damage + Melee phys. 
+	- Zombies: Predator + Melee splash
+
+- Part 3: ab level 28
+
+	- 4L sobald vorhanden
+	- 
 		- BBBG (spectre - L/GMP - Feeding frenzy - minion damage)
 			- Falls nur 3L: Minion damage rauslassen)
 			- Wenn 4L für skellies da, Feeding Frenzy tauschen für Faster casting (spell echo @38)
+			
 		- BBBR (zombie - meat shield - minion speed - melee splash)
+		
 		- BBBR (skellies - feeding frenzy - melee phys - minion damage) replace MP mit multistrike @38)
-			- Alternativ geht auch BBRR für skellies (Minion damage + MeleePhys + Multistrike), dann muss Feeding frenzy halt an einen anderen minion.
-		- Links sind generell relativ flexibel, solange irgendeiner Feeding Frenzy hat und alle 4L sind.
-		- Weitere Gems: Convocation, Flame Dash, Flesh Offering (alle B)
-		- Weiterhin Vitality + Clarity als Auren.
+			- Alternativ geht auch BBRR für skellies (Minion damage + MeleePhys + Multistrike), dann muss Feeding frenzy halt an einen anderen minion
+			
+	- Links sind generell relativ flexibel, solange irgendeiner Feeding Frenzy hat und alle 4L sind.
+	- Weitere Gems: Convocation, Flame Dash, Flesh Offering (alle B)
+	- Weiterhin Vitality + Clarity als Auren.
 
 
 
